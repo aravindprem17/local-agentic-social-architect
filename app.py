@@ -49,7 +49,7 @@ with st.sidebar:
     temp = st.slider("Creativity", 0.0, 1.0, 0.7)
 
 # --- 4. MAIN INTERFACE ---
-st.title("🚀 Social Media Architect Pro")
+st.title("🚀 SovereignCrew ")
 
 col1, col2 = st.columns([1, 1], gap="large")
 

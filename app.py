@@ -5,7 +5,7 @@ import time
 from crewai import Agent, Task, Crew, LLM
 
 # --- 1. PAGE CONFIG & SESSION STATE ---
-st.set_page_config(page_title="Social Media Architect Pro", page_icon="🚀", layout="wide")
+st.set_page_config(page_title="SovereignCrew", page_icon="🚀", layout="wide")
 
 # Initialize history in session state if it doesn't exist
 if "history" not in st.session_state:

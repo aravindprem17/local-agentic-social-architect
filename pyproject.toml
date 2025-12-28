@@ -1,0 +1,11 @@
+[project]
+name = "social-media-pro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "crewai>=0.5.0",
+    "litellm[proxy]>=1.40.8",
+    "streamlit>=1.50.0",
+]
